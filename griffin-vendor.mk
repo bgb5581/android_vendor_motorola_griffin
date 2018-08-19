@@ -146,7 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/griffin/proprietary/lib/libprovlib.so:system/lib/libprovlib.so \
     vendor/motorola/griffin/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
-    vendor/motorola/griffin/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/griffin/proprietary/lib/libqti-perfd-client_system.so:system/lib/libqti-perfd-client_system.so \
     vendor/motorola/griffin/proprietary/lib/libqti_performance.so:system/lib/libqti_performance.so \
     vendor/motorola/griffin/proprietary/lib/librcc.so:system/lib/librcc.so \
@@ -204,7 +203,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libmodmanager_system.so:system/lib64/libmodmanager_system.so \
     vendor/motorola/griffin/proprietary/lib64/libmotocare.so:system/lib64/libmotocare.so \
     vendor/motorola/griffin/proprietary/lib64/libqcomfm_jni.so:system/lib64/libqcomfm_jni.so \
-    vendor/motorola/griffin/proprietary/lib64/libqsap_sdk.so:system/lib64/libqsap_sdk.so \
     vendor/motorola/griffin/proprietary/lib64/libqti-perfd-client_system.so:system/lib64/libqti-perfd-client_system.so \
     vendor/motorola/griffin/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \
     vendor/motorola/griffin/proprietary/lib64/librcc.so:system/lib64/librcc.so \
@@ -717,7 +715,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libsensor_reg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor_reg.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libsensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorhub.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libsensorhubservice_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorhubservice_jni.so \
-    vendor/motorola/griffin/proprietary/vendor/lib/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorndkbridge.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libsettings.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsettings.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libslimclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libslimclient.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libslpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libslpc.so \
@@ -988,7 +985,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsensor_reg.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor_reg.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorhub.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsensorhubservice_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorhubservice_jni.so \
-    vendor/motorola/griffin/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsettings.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsettings.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libslimclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libslimclient.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libslpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libslpc.so \
