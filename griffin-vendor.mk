@@ -149,7 +149,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib/libqti-perfd-client_system.so:system/lib/libqti-perfd-client_system.so \
     vendor/motorola/griffin/proprietary/lib/libqti_performance.so:system/lib/libqti_performance.so \
     vendor/motorola/griffin/proprietary/lib/librcc.so:system/lib/librcc.so \
-    vendor/motorola/griffin/proprietary/vendor/lib/libsd_sdk_display.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsd_sdk_display.so \
+    vendor/motorola/griffin/proprietary/lib/libsd_sdk_display.so:system/lib/libsd_sdk_display.so \
     vendor/motorola/griffin/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
     vendor/motorola/griffin/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/griffin/proprietary/lib/libtrueportrait.so:system/lib/libtrueportrait.so \
@@ -206,7 +206,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/lib64/libqti-perfd-client_system.so:system/lib64/libqti-perfd-client_system.so \
     vendor/motorola/griffin/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \
     vendor/motorola/griffin/proprietary/lib64/librcc.so:system/lib64/librcc.so \
-    vendor/motorola/griffin/proprietary/vendor/lib64/libsd_sdk_display.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsd_sdk_display.so \
+    vendor/motorola/griffin/proprietary/lib64/libsd_sdk_display.so:system/lib64/libsd_sdk_display.so \
     vendor/motorola/griffin/proprietary/lib64/libsdm-disp-apis.so:system/lib64/libsdm-disp-apis.so \
     vendor/motorola/griffin/proprietary/lib64/libtpa.so:system/lib64/libtpa.so \
     vendor/motorola/griffin/proprietary/lib64/libtrueportrait.so:system/lib64/libtrueportrait.so \
